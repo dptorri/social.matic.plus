@@ -1,4 +1,4 @@
-# Project Title: social.matic.plus
+# social.matic.plus
 
 Social interface that allow users to create post, like and dislike other users all this without refreshing the page.
 
